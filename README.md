@@ -1,4 +1,5 @@
 Dynamic QR Code Generator
+
 Overview
 This application allows users to generate custom QR codes that include both high-quality images and dynamic URLs. It is designed for scenarios where QR codes need to serve as gateways to dynamic content, varying based on user interactions and conditions such as payment verification.
 
