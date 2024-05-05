@@ -21,6 +21,9 @@ Exclusive Access: Offer premium content through QR codes, with access controlled
 
 How It Works
 Input: Users provide an image and a URL to be embedded in the QR code.
+
 Generation: The application generates a QR code that incorporates the provided image and URL.
+
 Verification: If applicable, the QR code checks for payment verification before activating the embedded URL.
+
 Output: A QR code is generated and made available for download or direct sharing.
